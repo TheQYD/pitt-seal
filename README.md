@@ -29,7 +29,7 @@ Here are some extras.
 
 ![Close Up](photos/close-up.JPG?raw=true "Pitt Seal")
 
-![Measuring](photos/using-dialtest-indicator.jpg?raw=true "Pitt Seal")
+![Measuring](photos/measuring.png?raw=true "Pitt Seal")
 
 ![Overview](photos/overview.jpg?raw=true "Pitt Seal")
 
