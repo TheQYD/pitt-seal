@@ -14,7 +14,7 @@ Here are the before & after photos.
 ![Comparison](photos/comparison.jpg?raw=true "Pitt Seal")
 
 Here is the seal getting contoured.
-![Contour Pass](photos/contour-pass.jpg?raw=true "Pitt Seal")
+![Contour Pass](photos/contour-pass.JPG?raw=true "Pitt Seal")
 
 
 ### Acknowledgements
