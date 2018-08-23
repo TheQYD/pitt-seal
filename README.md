@@ -24,6 +24,14 @@ Here is the seal getting cut-out.
 
 ![Cut Out 2](photos/cut-out-2.JPG?raw=true "Pitt Seal")
 
+Here are some extras.
+
+![Close Up](photos/close-up?raw=true "Pitt Seal")
+
+![Measuring](photos/using-dialtest-indicator?raw=true "Pitt Seal")
+
+![Overview](photos/overview?raw=true "Pitt Seal")
+
 ### Acknowledgements
 
 Thanks to Bantam Tools
