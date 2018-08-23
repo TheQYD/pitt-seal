@@ -11,7 +11,7 @@ to make the seal.
 
 ### Media
 
-Here are the before & after photos.
+Here is a comparison between the original slab of brass and the relief. 
 
 ![Comparison](photos/comparison.jpg?raw=true "Pitt Seal")
 
