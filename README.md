@@ -26,11 +26,11 @@ Here is the seal getting cut-out.
 
 Here are some extras.
 
-![Close Up](photos/close-up?raw=true "Pitt Seal")
+![Close Up](photos/close-up.jpg?raw=true "Pitt Seal")
 
-![Measuring](photos/using-dialtest-indicator?raw=true "Pitt Seal")
+![Measuring](photos/using-dialtest-indicator.jpg?raw=true "Pitt Seal")
 
-![Overview](photos/overview?raw=true "Pitt Seal")
+![Overview](photos/overview.jpg?raw=true "Pitt Seal")
 
 ### Acknowledgements
 
