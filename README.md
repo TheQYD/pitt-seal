@@ -11,11 +11,18 @@ to make the seal.
 ### Media
 
 Here are the before & after photos.
+
 ![Comparison](photos/comparison.jpg?raw=true "Pitt Seal")
 
 Here is the seal getting contoured.
+
 ![Contour Pass](photos/contour-pass.JPG?raw=true "Pitt Seal")
 
+Here is the seal getting cut-out.
+
+![Cut Out 1](photos/cut-out-1.JPG?raw=true "Pitt Seal")
+
+![Cut Out 2](photos/cut-out-2.JPG?raw=true "Pitt Seal")
 
 ### Acknowledgements
 
