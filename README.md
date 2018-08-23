@@ -1,5 +1,6 @@
 # University of Pittsburgh Brass Seal
-A brass bas relief of the University of Pittsburgh seal.
+A brass bas relief of the University of Pittsburgh seal; modeled in Fusion 360
+and cut using the Bantam Tools Desktop PCB Milling Machine
 
 ![Top Seal](photos/top-seal.jpg?raw=true "Pitt Seal")
 ![Front Seal](photos/front-seal.jpg?raw=true "Pitt Seal")
@@ -34,4 +35,9 @@ Here are some extras.
 
 ### Acknowledgements
 
-Thanks to Bantam Tools
+Thanks to Bantam Tools for providing the material and the Desktop PCB Milling
+Machine (which you can find [here](https://www.bantamtools.com/pages/products))
+
+Thanks to Autodesk for the modeling software "Fusion 360" and forum help.
+
+Hail To Pitt!
