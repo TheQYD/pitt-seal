@@ -36,7 +36,7 @@ Here are some extras.
 ### Acknowledgements
 
 Thanks to Bantam Tools for providing the material and the Desktop PCB Milling
-Machine (which you can find [here](https://www.bantamtools.com/pages/products))
+Machine (which you can find [here](https://www.bantamtools.com/pages/products)).
 
 Thanks to Autodesk for the modeling software "Fusion 360" and forum help.
 
